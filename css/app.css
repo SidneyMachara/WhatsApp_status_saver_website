@@ -81,3 +81,7 @@ font-weight: normal;
 font-size: 18px;
 line-height: 30px;
 }
+
+section img {
+    box-shadow: 0 14px 28px rgba(97, 150, 185, 0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
